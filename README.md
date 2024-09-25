@@ -105,5 +105,5 @@ Geographical patterns
 
 
 ## Contact
-Created by [@githubusername] - feel free to provide your inputs!
+Created by [@HarshadaKalsekar] - feel free to provide your inputs!
 
